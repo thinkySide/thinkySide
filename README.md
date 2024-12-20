@@ -20,6 +20,7 @@ VStack {
 |[FourHour 네시간](https://github.com/DeveloperAcademy-POSTECH/2024-MC3-M14-SoyLatteTallSize)|4시간 동안 나를 위한 집중을 돕는 앱|디자이너와 개발자 모두 전 과정에 참여 및 기여할 수 있는 환경 조성|
 
 ### 😎 어떤 형태로든 소통하고 싶어요
+> 개발, 디자인, 협업, 혹은 그냥 쿡 찔러보고 싶었다와 같은 모든 이야기에 열려있습니다, 편하게 커피챗해요!
 - Email: eunlyuing@gmail.com
 - LinkedIn: [링크드인 링크](https://www.linkedin.com/in/minjoon-kim-3756a91a7/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - Velog: [벨로그 링크](https://velog.io/@thinkyside/posts)
