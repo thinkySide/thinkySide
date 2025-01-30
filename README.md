@@ -23,4 +23,4 @@ VStack {
 > 개발, 디자인, 협업, 혹은 그냥 쿡 찔러보고 싶었다와 같은 모든 이야기에 열려있습니다, 편하게 커피챗해요!
 - Email: eunlyuing@gmail.com
 - LinkedIn: [링크드인 링크](https://www.linkedin.com/in/minjoon-kim-3756a91a7/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Velog: [벨로그 링크](https://velog.io/@thinkyside/posts)
+- Tistory: [블로그 링크]([https://velog.io/@thinkyside/posts](https://thinkyside.tistory.com/))
